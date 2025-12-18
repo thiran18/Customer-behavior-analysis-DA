@@ -12,6 +12,7 @@ This project analyzes customer behavior using real-world data to identify purcha
 
 ## 📂 Project Structure
 
+```
 customer-behavior-analysis/
 │
 ├── data/
@@ -28,7 +29,7 @@ customer-behavior-analysis/
 │   └── data_cleaning.ipynb
 │
 └── README.md
-
+```
 
 ## 🔄 Workflow
 1. Imported raw CSV data
