@@ -45,7 +45,7 @@ customer-behavior-analysis/
 - Highlighted top-performing categories
 
 ## 📷 Power BI Dashboard Preview
-![Dashboard](powerbi/dashboard_screenshot.png)
+![Dashboard](powerbi/image.png)
 
 ## 🚀 How to Use
 1. Clone the repository
