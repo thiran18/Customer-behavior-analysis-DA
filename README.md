@@ -16,17 +16,17 @@ This project analyzes customer behavior using real-world data to identify purcha
 customer-behavior-analysis/
 │
 ├── data/
-│   └── customer_data.csv
+│   └── customer_shopping_behavior.csv,
 │
 ├── powerbi/
-│   ├── customer_analysis.pbix
-│   └── dashboard_screenshot.png
+│   ├── customer_behaviour.pbix  
+│   └── image.png
 │
 ├── sql/
-│   └── analysis_queries.sql
+│   └── sql_customer_analysis.sql   
 │
 ├── notebooks/
-│   └── data_cleaning.ipynb
+│   └── customer_behaviour_analysis.ipynb
 │
 └── README.md
 ```
